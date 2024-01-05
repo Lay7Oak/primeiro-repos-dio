@@ -1,2 +1,1 @@
-# primeiro-repos-dio
-Primeiro repositório DIO
+# Primeiro Repositório na DIO :smiley:
